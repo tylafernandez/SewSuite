@@ -91,6 +91,100 @@ graph TD
 
 [Instructions for setting up the project locally will be added here]
 
+## User Personas
+
+Our app is designed to cater to a variety of users in the tailoring and seamstress industry. Below is a breakdown of our primary user types and their needs:
+
+# UX Research Case Study - 5 Different Users
+
+## 1. Professional Tailor (Small Business Owner)
+
+### Key Needs
+- Seamlessly track multiple ongoing projects
+- Ability to send automatic status updates via email or text to clients
+- Manage client expectations by tracking deadlines
+- Simple system for taking deposits and final payments (with automated reminders)
+
+### Challenges
+- Handling large volumes of orders during peak seasons
+- Keeping track of specific measurements and alterations for different clients
+- Avoiding late payments from clients
+
+### Looking For
+- A calendar-based view for order deadlines
+- Ability to quickly add and manage clients and order details
+- Payment system integration (accept deposits and track full payments)
+
+## 2. Hobbyist Seamstress
+
+### Key Needs
+- Track personal projects and occasional custom orders for clients
+- Organize projects by fabric, patterns, or due date
+- Option to send casual updates to friends or clients about order status
+
+### Challenges
+- Not being overly technical with the app
+- Managing a small volume of orders with varying due dates
+- Keeping track of expenses and profits
+
+### Looking For
+- Visual dashboard with a quick overview of order status
+- Intuitive design with easy-to-understand project flow
+- Optional features like a pattern library or fabric usage tracker
+
+## 3. Large Workshop Owner
+
+### Key Needs
+- Manage a team of tailors working on different parts of the same order
+- Assign and track tasks across team members
+- Centralized client communication and payment management
+
+### Challenges
+- Keeping communication clear between clients and multiple tailors
+- Ensuring deadlines are met when multiple people are working on a single project
+- Managing payments with flexibility (e.g., partial payments)
+
+### Looking For
+- Team management tools within the app (assign tasks, mark progress)
+- Client portal where clients can log in and check their order status
+- Payment system that allows clients to make partial or full payments with invoices
+
+## 4. Mobile Tailor (Freelancer)
+
+### Key Needs
+- Track orders while on the go
+- Easy mobile access for updating project status and taking payments
+- Communicate quickly with clients (text preferred)
+
+### Challenges
+- Balancing multiple clients in different locations
+- Keeping on top of payments while traveling
+- Updating orders in real-time while working remotely
+
+### Looking For
+- Mobile-first interface with all key features accessible
+- Simple communication tools for fast texting or email updates
+- Payment system with integrated mobile payment solutions (e.g., Apple Pay, Google Pay)
+
+## 5. Wedding Dressmaker
+
+### Key Needs
+- Handle long-term, high-stakes projects like wedding dresses
+- Keep detailed notes on alterations, fittings, and adjustments
+- Send regular updates to brides and remind them about upcoming fittings
+
+### Challenges
+- Maintaining communication without overwhelming the client
+- Keeping detailed measurements, sketches, and alterations in one place
+- Taking deposits and ensuring timely final payments before the wedding date
+
+### Looking For
+- A way to store and organize detailed project notes
+- Calendar for scheduling and reminding clients about fittings
+- A secure, reliable payment gateway to handle deposits and final payments
+  
+These user personas guide our development process, ensuring that we create features that address the specific needs and challenges of our diverse user base.
+
 ## Contributing
 
 This project is a collaboration between Tyla Fernandez and Myles Petillo. We are not currently accepting external contributions.
